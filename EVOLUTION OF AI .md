@@ -29,3 +29,7 @@
   
 ## 2030+ maybe ..
 - Self-aware AI era (hypothetical) - AI that reflects on its existence, has a sense of self - JARVIS from IRON MAN or ULTRON (*as reference)
+
+
+
+# AI BASED ON THEIR FUNCTIONALITY
